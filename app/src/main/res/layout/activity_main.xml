@@ -40,6 +40,18 @@
         android:textOn="Ligado"
         android:textSize="24sp" />
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checkbox" />
+
+    <CheckBox
+        android:id="@+id/checkSenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lembrar senha?" />
+
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
